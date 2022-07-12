@@ -1,0 +1,5 @@
+.idea
+target
+premain/dependency-reduced-pom.xml
+*.class
+*.iml
